@@ -14,6 +14,6 @@ class Config:
     MAIL_PORT = 587
     MAIL_USE_TLS = 1
     MAIL_USERNAME = 'apikey'
-    MAIL_PASSWORD = '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'
+    MAIL_PASSWORD = ''
     MAIL_SUBJECT_RESET_PASSWORD = '[Twittor] Please Reset Your Password.'
     MAIN_SUBJECT_USER_ACTIVATE = '[Twittor] Please active your account.'
